@@ -12,7 +12,7 @@ int sum = num1 + num2;
 int sub = num1 - num2;
 int divide = num1 /num2;
 int mul = num1*num2;
-	System.out.println("calculator Menu :");
+	System.out.println("calculator Menu : \n");
 
 	System.out.println("1 for Add \n 2 for sub \n 3 for multiplication and \n 4 for divide ");
 	int choice = Calculator.nextInt();
